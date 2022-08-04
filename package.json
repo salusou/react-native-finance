@@ -1,23 +1,33 @@
 {
-    "name": "react-native-finance",
-    "version": "1.0.0",
-    "description": "A component for earnings report and account statement",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "license": "MIT",
-
-    "dependencies": {
-      "react-native-elements": "^3.0.0",
-      "react-native-calendar-picker": "^6.0.1",
-      "react-native-chart-kit": "^6.7.0"
-    },
-
-    "peerDependencies": {
-        "react-native": ">=0.47.0"
-    },
-
-    "author": "Genesisoft"
-  }
-
+  "name": "@evibe/react-native-finance",
+  "version": "1.0.0",
+  "description": "A component for earnings report and account statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react-native-elements": "^3.0.0",
+    "react-native-calendar-picker": "^6.0.1",
+    "react-native-chart-kit": "^6.7.0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.47.0"
+  },
+  "author": "Genesisoft",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salusou/react-native-finance.git"
+  },
+  "keywords": [
+    "finance",
+    "evibe",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/salusou/react-native-finance/issues"
+  },
+  "homepage": "https://github.com/salusou/react-native-finance#readme"
+}
